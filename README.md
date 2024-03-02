@@ -1,8 +1,12 @@
-![MASTER](https://www.ilionx.com/wp-content/uploads/2020/09/NextGenIT_2048x660pix-1024x330.jpg)
+
+<h1 align="center">Hi, I'm Azer Dunyamliyev <img src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" style = "width: 40px; display: inline-block;" data-target = "animated-image.originalImage"></img></h1>
+<p align="center">
+  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+Azer+Dunyamaliyev+Channel;Front+end+developer;></a>
+</p>
+
+<a align = "center">![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FA4721&lines=Welcome+Azer+Dunyamaliyev+Channel;+Front+end+developer)</a>
 
 
-<h1 align="center">Hi 👋, I'm Azer Dunyamliyev <img src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" style = "width: 40px; display: inline-block;" data-target = "animated-image.originalImage"></img></h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
 
 
