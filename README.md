@@ -1,13 +1,13 @@
 ![MASTER](https://www.ilionx.com/wp-content/uploads/2020/09/NextGenIT_2048x660pix-1024x330.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Azer Dunyamliyev</h1>
+<h1 align="center">Hi 👋, I'm Azer Dunyamliyev <img src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" style = "max-width: 100%; display: inline-block;" data-target = "animated-image.originalImage"></img></h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
 <img width="1170px" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="">
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""/></a> </p>
 
 - 📫 How to reach me **dunyamaliev.azer@gmail.com**
 
