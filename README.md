@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Azer Dunyamliyev <img src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" style = "width: 40px; display: inline-block;" data-target = "animated-image.originalImage"></img></h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-<img width="1170px" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="">
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""/></a> </p>
