@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Azer Dunyamliyev <img src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" style = "width: 40px; display: inline-block;" data-target = "animated-image.originalImage"></img></h1>
+<h1 align="center">Hi, I'm Azer Dunyamaliyev <img src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" style = "width: 40px; display: inline-block;" data-target = "animated-image.originalImage"></img></h1>
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+Azer+Dunyamaliyev+Channel;Front+end+developer;></a>
 </p>
