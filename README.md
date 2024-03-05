@@ -27,6 +27,7 @@
   <li><a href = "https://azer-dunyamaliyev.github.io/Freebie/" style = "text-decoration: none;">Site</a> - Freebie</li>
   <li><a href = "https://azer-dunyamaliyev.github.io/yours/" style = "text-decoration: none;">Site</a> - Yours</li>
   <li><a href = "https://azer-dunyamaliyev.github.io/Quiz-API-/" style = "text-decoration: none;">Quiz</a> - Sport questions</li>
+  <li><a href = "https://azer-dunyamaliyev.github.io/Calendar/" style = "text-decoration: none;">Calendar</a> - Calendar</li>
 </ul>
 
 # 📊 GitHub Stats:
