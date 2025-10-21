@@ -25,7 +25,7 @@
   <li><a href = "https://abone.elegant.az/" style = "text-decoration: none;">Site</a> - Elegant Parfume</li>
   <li><a href = "https://koton-blond.vercel.app/" style = "text-decoration: none;">Site</a> - Koton</li>
   <li><a href = "https://azer-dunyamaliyev.github.io/GameWarrior/" style = "text-decoration: none;">Site</a> - GameWarrior</li>
-  <li><a href = "https://azer-dunyamaliyev.github.io/Cyberpink/" style = "text-decoration: none;">Site</a> - Cyberpink</li>
+  <li><a href = "https://azer-dunyamaliyev.github.io/Cyberpink/" style = "text-decoration: none;">Site</a> - Cyberpunk</li>
   <li><a href = "https://azer-dunyamaliyev.github.io/Cryptous/" style = "text-decoration: none;">Site</a> - Cryptous</li>
   <li><a href = "https://azer-dunyamaliyev.github.io/Freebie/" style = "text-decoration: none;">Site</a> - Freebie</li>
   <li><a href = "https://azer-dunyamaliyev.github.io/yours/" style = "text-decoration: none;">Site</a> - Yours</li>
