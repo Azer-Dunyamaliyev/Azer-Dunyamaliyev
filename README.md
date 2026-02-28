@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Azer Dunyamaliyev <img src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" style = "width: 40px; display: inline-block;" data-target = "animated-image.originalImage"></img></h1>
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+Azer+Dunyamaliyev+Channel;Front+end+developer;></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+To+Azer+Dunyamaliyev+Channel;Front+end+developer;></a>
 </p>
 
 <a align = "center">![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FA4721&lines=Welcome+Azer+Dunyamaliyev+Channel;+Software+developer)</a>
@@ -10,7 +10,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""/></a> </p>
 
 
 ## 🌐 Socials:
